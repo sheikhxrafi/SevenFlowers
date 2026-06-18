@@ -1,2 +1,2 @@
 # SevenFlowers
-seven flowers is a creative agency landing page made by me
+seven flowers is a garden agency landing page made by me
